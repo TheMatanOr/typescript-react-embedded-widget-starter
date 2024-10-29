@@ -20,7 +20,7 @@ const Content = () => {
     )
   }
 
-  return <ButtonCircle onClick={openWidget}>Click Me</ButtonCircle>
+  return <ButtonCircle onClick={openWidget}>Matan Or</ButtonCircle>
 }
 
 const Widget = () => (
